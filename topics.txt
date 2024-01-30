@@ -1,0 +1,102 @@
+En la habitación
+En el living
+En el patio
+En la cocina
+En el baño
+En el supermercado
+En la estación de tren
+En el cine
+En la biblioteca
+En la playa
+En el parque de atracciones
+En la oficina de correos
+En la estación de autobuses
+En el gimnasio
+En la ferretería
+En la lavandería
+En la gasolinera
+En el consultorio médico
+En la farmacia
+En el aeropuerto
+En el hotel
+En la estación de esquí
+En el estadio
+En el museo
+En la peluquería
+En el restaurante
+En el café
+En la panadería
+En la tienda de ropa
+En la tienda de electrónica
+En la peluquería canina
+En el parque de perros
+En la pista de patinaje
+En la feria
+En la carnicería
+En la juguetería
+En la guardería
+En la escuela
+En la universidad
+En el hospital
+En la tienda de mascotas
+En el mercado de agricultores
+En el centro comercial
+En el spa
+En la peluquería
+En el club deportivo
+En el teatro
+En la óptica
+En la tienda de música
+En la tienda de antigüedades
+En la librería
+En la tienda de deportes
+En el taller mecánico
+En la joyería
+En la tienda de regalos
+En la guardería de plantas
+En la sala de conciertos
+En el zoológico
+En el parque de diversiones
+En el campo
+En la montaña
+En el río
+En el lago
+En el bosque
+En la granja
+En la cueva
+En el mirador
+En el acuario
+En la plaza del pueblo
+En el mercado callejero
+En el jardín botánico
+En el invernadero
+En la pista de atletismo
+En la piscina
+En el centro de entrenamiento
+En el centro de belleza
+En el salón de baile
+En la sala de exposiciones
+En el centro de eventos
+En la sala de conferencias
+En la pista de bolos
+En el centro de juegos
+En el salón de billar
+En la cancha de voleibol
+En la cancha de fútbol
+En el hospital
+En la perfumería
+En la farmacia
+En el trabajo de programador
+En el bar
+En el bus
+En el casino
+En el noticiero
+En la economía
+En la política
+En la matemática
+En la programación
+En el internet
+En la boda
+En el crucero
+En el avión
+En el subte

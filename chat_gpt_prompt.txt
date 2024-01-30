@@ -1,0 +1,12 @@
+Ahora debes generar 100 palabras y los respectivos datos de cada una para el tema "..." con el siguiente formato:
+palabra, tipo gramatical, word, sentence, 言葉, 読み, 例文, 例文の読み
+Recuerda separar cada columna con una coma. No repitas palabras entre las que generes, las cuales además no deben encontrarse en la siguiente lista:
+[palabra]
+palabra: palabra referida al tema, en español
+tipo gramatical: el tipo de palabra que es
+word: traducción al ingles de la palabra
+sentence: oración de ejemplo para la palabra en cuestión
+言葉: traducción al japones de la palabra
+読み: lectura en hiragana de la palabra
+例文: oración de ejemplo en japones para la palabra
+例文の読み: lectura en hiragana de la oración
