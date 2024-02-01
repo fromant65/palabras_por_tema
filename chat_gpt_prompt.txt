@@ -5,7 +5,7 @@ Recuerda separar cada columna con una coma. No repitas palabras entre las que ge
 palabra: palabra referida al tema, en español
 tipo gramatical: el tipo de palabra que es
 word: traducción al ingles de la palabra
-sentence: oración de ejemplo para la palabra en cuestión
+sentence: oración en ingles de ejemplo para la palabra en cuestión 
 言葉: traducción al japones de la palabra
 読み: lectura en hiragana de la palabra
 例文: oración de ejemplo en japones para la palabra

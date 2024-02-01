@@ -13,3 +13,8 @@
 4. Pasarle el prompt a ChatGPT.
 5. Copiar la lista de palabras generadas por ChatGPT al final del archivo CSV del tema correspondiente.
 6. Repetir hasta que la lista tenga la cantidad de palabras deseada.
+
+# Precauciones
+- Las oraciones de ejemplo generadas por ChatGPT pueden tener comas, lo que puede arruinar el formato CSV. Procura revisar los archivos antes de usarlos para evitar errores.
+- Las oraciones de ejemplo generadas por ChatGPT pueden tener palabras mezcladas entre idiomas. Procura revisar los archivos antes de usarlos para evitar errores.
+- Las palabras generadas por ChatGPT dentro de una misma iteración pueden llegar a repetirse. Si te interesa que no haya palabras repetidas, procura revisar los archivos para eliminar las lineas con palabras repetidas
